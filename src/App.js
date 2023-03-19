@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <div className="black-nav">
-        <h4>ReactBlog</h4>
+        <h4>재원 Offical</h4>
       </div>
       <div className='list'>
         <h4>{ 바뀔제목 } <span onClick={ () => { 따봉변경1( 따봉1 + 1 ) } }>👍</span> { 따봉1 }</h4>
